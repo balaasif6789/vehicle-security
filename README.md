@@ -6,7 +6,9 @@ https://github.com/jaredthecoder/awesome-vehicle-security  Awesome link <br>
 http://opengarages.org/ <br>
 https://kkuchera.github.io/canalyze/ <br>
 https://www.youtube.com/playlist?list=PLBqtCp9s_lnEOtf6I1DDMEANIzJJLXRhe <br> You Tube 
-
+http://www.autosec.org/publications.html<br>
+http://illmatics.com/carhacking.html <br>
+https://www.freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec/ <br>
 
 
 <b> Attacking OBD </b> <br>
